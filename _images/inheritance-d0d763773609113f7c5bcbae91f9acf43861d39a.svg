@@ -1,0 +1,47 @@
+<ns0:svg xmlns:ns0="http://www.w3.org/2000/svg" xmlns:ns1="http://www.w3.org/1999/xlink" width="0pt" height="864pt" viewBox="0.00 0.00 0.36 864.00">
+<ns0:g id="graph0" class="graph" transform="scale(0.00102086 0.00102086) rotate(0) translate(4 846340.77)">
+<ns0:title>inheritanced001c38413</ns0:title>
+
+<ns0:g id="node1" class="node">
+<ns0:title>ConfigurationMixIn</ns0:title>
+<ns0:polygon fill="white" stroke="black" stroke-width="0.5" points="151,-846330.32 0,-846330.32 0,-6.45 151,-6.45 151,-846330.32" />
+<ns0:text text-anchor="middle" x="75.5" y="-846316.82" font-family="Vera Sans, DejaVu Sans, Liberation Sans, Arial, Helvetica, sans" font-size="10.00">ConfigurationMixIn</ns0:text>
+</ns0:g>
+
+<ns0:g id="node3" class="node">
+<ns0:title>Tool</ns0:title>
+<ns0:g id="a_node3"><ns0:a ns1:href="../pyEDAA.ToolSetup/pyEDAA.ToolSetup.html#pyEDAA.ToolSetup.Tool" ns1:title="Tool" target="_top">
+<ns0:polygon fill="white" stroke="black" stroke-width="0.5" points="241,-423177.63 187,-423177.63 187,-423159.13 241,-423159.13 241,-423177.63" />
+<ns0:text text-anchor="middle" x="214" y="-423164.13" font-family="Vera Sans, DejaVu Sans, Liberation Sans, Arial, Helvetica, sans" font-size="10.00">Tool</ns0:text>
+</ns0:a>
+</ns0:g>
+</ns0:g>
+
+<ns0:g id="edge3" class="edge">
+<ns0:title>ConfigurationMixIn-&gt;Tool</ns0:title>
+<ns0:path fill="none" stroke="black" stroke-width="0.5" d="M151.14,-423168.38C161.56,-423168.38 171.77,-423168.38 180.8,-423168.38" />
+<ns0:polygon fill="black" stroke="black" stroke-width="0.5" points="181.56,-423170.13 186.56,-423168.38 181.56,-423166.63 181.56,-423170.13" />
+</ns0:g>
+
+<ns0:g id="node2" class="node">
+<ns0:title>Diamond</ns0:title>
+<ns0:g id="a_node2"><ns0:a ns1:href="../pyEDAA.ToolSetup/pyEDAA.ToolSetup.Lattice.html#pyEDAA.ToolSetup.Lattice.Diamond" ns1:title="Diamond" target="_top">
+<ns0:polygon fill="white" stroke="black" stroke-width="0.5" points="345.5,-846336.77 277,-846336.77 277,0 345.5,0 345.5,-846336.77" />
+<ns0:text text-anchor="middle" x="311.25" y="-846323.27" font-family="Vera Sans, DejaVu Sans, Liberation Sans, Arial, Helvetica, sans" font-size="10.00">Diamond</ns0:text>
+</ns0:a>
+</ns0:g>
+</ns0:g>
+
+<ns0:g id="edge1" class="edge">
+<ns0:title>Tool-&gt;Diamond</ns0:title>
+<ns0:path fill="none" stroke="black" stroke-width="0.5" d="M241.28,-423168.38C250.39,-423168.38 260.82,-423168.38 270.76,-423168.38" />
+<ns0:polygon fill="black" stroke="black" stroke-width="0.5" points="271.55,-423170.13 276.55,-423168.38 271.55,-423166.63 271.55,-423170.13" />
+</ns0:g>
+
+<ns0:g id="edge2" class="edge">
+<ns0:title>Tool-&gt;Tool</ns0:title>
+<ns0:path fill="none" stroke="black" stroke-width="0.5" d="M199.01,-423177.88C191.72,-423186.45 196.72,-423195.63 214,-423195.63 227.77,-423195.63 233.74,-423189.8 231.91,-423183.1" />
+<ns0:polygon fill="black" stroke="black" stroke-width="0.5" points="232.96,-423181.39 228.99,-423177.88 229.91,-423183.1 232.96,-423181.39" />
+</ns0:g>
+</ns0:g>
+</ns0:svg>

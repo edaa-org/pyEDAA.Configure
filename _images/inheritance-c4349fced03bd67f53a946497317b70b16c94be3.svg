@@ -1,0 +1,29 @@
+<ns0:svg xmlns:ns0="http://www.w3.org/2000/svg" xmlns:ns1="http://www.w3.org/1999/xlink" width="1pt" height="864pt" viewBox="0.00 0.00 0.89 864.00">
+<ns0:g id="graph0" class="graph" transform="scale(0.00357684 0.00357684) rotate(0) translate(4 241549.9)">
+<ns0:title>inheritancecd7e0a043d</ns0:title>
+
+<ns0:g id="node1" class="node">
+<ns0:title>Vendor</ns0:title>
+<ns0:g id="a_node1"><ns0:a ns1:href="../pyEDAA.ToolSetup/pyEDAA.ToolSetup.DataModel.html#pyEDAA.ToolSetup.DataModel.Vendor" ns1:title="Vendor" target="_top">
+<ns0:polygon fill="white" stroke="black" stroke-width="0.5" points="240.5,-120782.2 179.5,-120782.2 179.5,-120763.7 240.5,-120763.7 240.5,-120782.2" />
+<ns0:text text-anchor="middle" x="210" y="-120768.7" font-family="Vera Sans, DejaVu Sans, Liberation Sans, Arial, Helvetica, sans" font-size="10.00">Vendor</ns0:text>
+</ns0:a>
+</ns0:g>
+</ns0:g>
+
+<ns0:g id="node2" class="node">
+<ns0:title>VendorInformation</ns0:title>
+<ns0:g id="a_node2"><ns0:a ns1:href="../pyEDAA.ToolSetup/pyEDAA.ToolSetup.DataModel.html#pyEDAA.ToolSetup.DataModel.VendorInformation" ns1:title="VendorInformation" target="_top">
+<ns0:polygon fill="white" stroke="black" stroke-width="0.5" points="143.5,-241545.9 0,-241545.9 0,0 143.5,0 143.5,-241545.9" />
+<ns0:text text-anchor="middle" x="71.75" y="-241532.4" font-family="Vera Sans, DejaVu Sans, Liberation Sans, Arial, Helvetica, sans" font-size="10.00">VendorInformation</ns0:text>
+</ns0:a>
+</ns0:g>
+</ns0:g>
+
+<ns0:g id="edge1" class="edge">
+<ns0:title>VendorInformation-&gt;Vendor</ns0:title>
+<ns0:path fill="none" stroke="black" stroke-width="0.5" d="M143.67,-120772.95C153.96,-120772.95 164.16,-120772.95 173.34,-120772.95" />
+<ns0:polygon fill="black" stroke="black" stroke-width="0.5" points="174.22,-120774.7 179.22,-120772.95 174.22,-120771.2 174.22,-120774.7" />
+</ns0:g>
+</ns0:g>
+</ns0:svg>

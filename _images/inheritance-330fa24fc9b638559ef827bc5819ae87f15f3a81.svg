@@ -1,0 +1,47 @@
+<ns0:svg xmlns:ns0="http://www.w3.org/2000/svg" xmlns:ns1="http://www.w3.org/1999/xlink" width="1pt" height="864pt" viewBox="0.00 0.00 0.78 864.00">
+<ns0:g id="graph0" class="graph" transform="scale(0.00231052 0.00231052) rotate(0) translate(4 373937.47)">
+<ns0:title>inheritance532d9fd9e7</ns0:title>
+
+<ns0:g id="node1" class="node">
+<ns0:title>ConfigurationMixIn</ns0:title>
+<ns0:polygon fill="white" stroke="black" stroke-width="0.5" points="151,-373933.47 0,-373933.47 0,0 151,0 151,-373933.47" />
+<ns0:text text-anchor="middle" x="75.5" y="-373919.97" font-family="Vera Sans, DejaVu Sans, Liberation Sans, Arial, Helvetica, sans" font-size="10.00">ConfigurationMixIn</ns0:text>
+</ns0:g>
+
+<ns0:g id="node2" class="node">
+<ns0:title>Tool</ns0:title>
+<ns0:g id="a_node2"><ns0:a ns1:href="../pyEDAA.ToolSetup/pyEDAA.ToolSetup.html#pyEDAA.ToolSetup.Tool" ns1:title="Tool" target="_top">
+<ns0:polygon fill="white" stroke="black" stroke-width="0.5" points="241,-186975.99 187,-186975.99 187,-186957.49 241,-186957.49 241,-186975.99" />
+<ns0:text text-anchor="middle" x="214" y="-186962.49" font-family="Vera Sans, DejaVu Sans, Liberation Sans, Arial, Helvetica, sans" font-size="10.00">Tool</ns0:text>
+</ns0:a>
+</ns0:g>
+</ns0:g>
+
+<ns0:g id="edge2" class="edge">
+<ns0:title>ConfigurationMixIn-&gt;Tool</ns0:title>
+<ns0:path fill="none" stroke="black" stroke-width="0.5" d="M151.14,-186966.74C161.56,-186966.74 171.77,-186966.74 180.8,-186966.74" />
+<ns0:polygon fill="black" stroke="black" stroke-width="0.5" points="181.56,-186968.49 186.56,-186966.74 181.56,-186964.99 181.56,-186968.49" />
+</ns0:g>
+
+<ns0:g id="edge1" class="edge">
+<ns0:title>Tool-&gt;Tool</ns0:title>
+<ns0:path fill="none" stroke="black" stroke-width="0.5" d="M200.13,-186976.23C193.38,-186984.8 198,-186993.99 214,-186993.99 226.75,-186993.99 232.27,-186988.16 230.58,-186981.45" />
+<ns0:polygon fill="black" stroke="black" stroke-width="0.5" points="231.73,-186979.87 227.87,-186976.23 228.62,-186981.48 231.73,-186979.87" />
+</ns0:g>
+
+<ns0:g id="node3" class="node">
+<ns0:title>Vitis</ns0:title>
+<ns0:g id="a_node3"><ns0:a ns1:href="../pyEDAA.ToolSetup/pyEDAA.ToolSetup.Xilinx.html#pyEDAA.ToolSetup.Xilinx.Vitis" ns1:title="Vitis" target="_top">
+<ns0:polygon fill="white" stroke="black" stroke-width="0.5" points="331,-186975.99 277,-186975.99 277,-186957.49 331,-186957.49 331,-186975.99" />
+<ns0:text text-anchor="middle" x="304" y="-186962.49" font-family="Vera Sans, DejaVu Sans, Liberation Sans, Arial, Helvetica, sans" font-size="10.00">Vitis</ns0:text>
+</ns0:a>
+</ns0:g>
+</ns0:g>
+
+<ns0:g id="edge3" class="edge">
+<ns0:title>Tool-&gt;Vitis</ns0:title>
+<ns0:path fill="none" stroke="black" stroke-width="0.5" d="M241.4,-186966.74C250.63,-186966.74 261.09,-186966.74 270.73,-186966.74" />
+<ns0:polygon fill="black" stroke="black" stroke-width="0.5" points="271.62,-186968.49 276.62,-186966.74 271.62,-186964.99 271.62,-186968.49" />
+</ns0:g>
+</ns0:g>
+</ns0:svg>

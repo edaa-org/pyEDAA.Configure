@@ -1,0 +1,14 @@
+<ns0:svg xmlns:ns0="http://www.w3.org/2000/svg" xmlns:ns1="http://www.w3.org/1999/xlink" width="0pt" height="864pt" viewBox="0.00 0.00 0.12 864.00">
+<ns0:g id="graph0" class="graph" transform="scale(0.000891894 0.000891894) rotate(0) translate(4 968721.12)">
+<ns0:title>inheritance75785223e8</ns0:title>
+
+<ns0:g id="node1" class="node">
+<ns0:title>ToolInformation</ns0:title>
+<ns0:g id="a_node1"><ns0:a ns1:href="../pyEDAA.ToolSetup/pyEDAA.ToolSetup.DataModel.html#pyEDAA.ToolSetup.DataModel.ToolInformation" ns1:title="ToolInformation" target="_top">
+<ns0:polygon fill="white" stroke="black" stroke-width="0.5" points="128.5,-968717.12 0,-968717.12 0,0 128.5,0 128.5,-968717.12" />
+<ns0:text text-anchor="middle" x="64.25" y="-968703.62" font-family="Vera Sans, DejaVu Sans, Liberation Sans, Arial, Helvetica, sans" font-size="10.00">ToolInformation</ns0:text>
+</ns0:a>
+</ns0:g>
+</ns0:g>
+</ns0:g>
+</ns0:svg>

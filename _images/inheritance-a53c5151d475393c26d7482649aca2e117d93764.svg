@@ -1,0 +1,62 @@
+<ns0:svg xmlns:ns0="http://www.w3.org/2000/svg" xmlns:ns1="http://www.w3.org/1999/xlink" width="6pt" height="864pt" viewBox="0.00 0.00 5.76 864.00">
+<ns0:g id="graph0" class="graph" transform="scale(0.0150267 0.0150267) rotate(0) translate(4 57493.8)">
+<ns0:title>inheritance55c498310b</ns0:title>
+
+<ns0:g id="node1" class="node">
+<ns0:title>ConfigurationMixIn</ns0:title>
+<ns0:polygon fill="white" stroke="black" stroke-width="0.5" points="151,-28765.15 0,-28765.15 0,-28746.65 151,-28746.65 151,-28765.15" />
+<ns0:text text-anchor="middle" x="75.5" y="-28751.65" font-family="Vera Sans, DejaVu Sans, Liberation Sans, Arial, Helvetica, sans" font-size="10.00">ConfigurationMixIn</ns0:text>
+</ns0:g>
+
+<ns0:g id="node3" class="node">
+<ns0:title>Vendor</ns0:title>
+<ns0:g id="a_node3"><ns0:a ns1:href="../pyEDAA.ToolSetup/pyEDAA.ToolSetup.html#pyEDAA.ToolSetup.Vendor" ns1:title="Vendor" target="_top">
+<ns0:polygon fill="white" stroke="black" stroke-width="0.5" points="248,-57471.8 187,-57471.8 187,0 248,0 248,-57471.8" />
+<ns0:text text-anchor="middle" x="217.5" y="-57458.3" font-family="Vera Sans, DejaVu Sans, Liberation Sans, Arial, Helvetica, sans" font-size="10.00">Vendor</ns0:text>
+</ns0:a>
+</ns0:g>
+</ns0:g>
+
+<ns0:g id="edge4" class="edge">
+<ns0:title>ConfigurationMixIn-&gt;Vendor</ns0:title>
+<ns0:path fill="none" stroke="black" stroke-width="0.5" d="M144.45,-28746.2C157.15,-28744.38 169.93,-28742.56 181.13,-28740.95" />
+<ns0:polygon fill="black" stroke="black" stroke-width="0.5" points="182.14,-28742.58 186.84,-28740.14 181.64,-28739.11 182.14,-28742.58" />
+</ns0:g>
+
+<ns0:g id="node2" class="node">
+<ns0:title>SiemensEDA</ns0:title>
+<ns0:g id="a_node2"><ns0:a ns1:href="../pyEDAA.ToolSetup/pyEDAA.ToolSetup.SiemensEDA.html#pyEDAA.ToolSetup.SiemensEDA.SiemensEDA" ns1:title="SiemensEDA" target="_top">
+<ns0:polygon fill="white" stroke="black" stroke-width="0.5" points="375,-28745.15 284,-28745.15 284,-28726.65 375,-28726.65 375,-28745.15" />
+<ns0:text text-anchor="middle" x="329.5" y="-28731.65" font-family="Vera Sans, DejaVu Sans, Liberation Sans, Arial, Helvetica, sans" font-size="10.00">SiemensEDA</ns0:text>
+</ns0:a>
+</ns0:g>
+</ns0:g>
+
+<ns0:g id="edge1" class="edge">
+<ns0:title>Vendor-&gt;SiemensEDA</ns0:title>
+<ns0:path fill="none" stroke="black" stroke-width="0.5" d="M248.27,-28735.9C257.42,-28735.9 267.75,-28735.9 277.89,-28735.9" />
+<ns0:polygon fill="black" stroke="black" stroke-width="0.5" points="278.83,-28737.65 283.83,-28735.9 278.83,-28734.15 278.83,-28737.65" />
+</ns0:g>
+
+<ns0:g id="edge3" class="edge">
+<ns0:title>Vendor-&gt;Vendor</ns0:title>
+<ns0:path fill="none" stroke="black" stroke-width="0.5" d="M216.05,-57472.19C216.52,-57483.88 217.01,-57489.8 217.5,-57489.8 217.9,-57489.8 218.29,-57485.89 218.68,-57478.16" />
+<ns0:polygon fill="black" stroke="black" stroke-width="0.5" points="220.47,-57477.27 218.95,-57472.19 216.98,-57477.11 220.47,-57477.27" />
+</ns0:g>
+
+<ns0:g id="node4" class="node">
+<ns0:title>VendorInformation</ns0:title>
+<ns0:g id="a_node4"><ns0:a ns1:href="../pyEDAA.ToolSetup/pyEDAA.ToolSetup.DataModel.html#pyEDAA.ToolSetup.DataModel.VendorInformation" ns1:title="VendorInformation" target="_top">
+<ns0:polygon fill="white" stroke="black" stroke-width="0.5" points="147.25,-28728.9 3.75,-28728.9 3.75,-28702.9 147.25,-28702.9 147.25,-28728.9" />
+<ns0:text text-anchor="middle" x="75.5" y="-28715.4" font-family="Vera Sans, DejaVu Sans, Liberation Sans, Arial, Helvetica, sans" font-size="10.00">VendorInformation</ns0:text>
+</ns0:a>
+</ns0:g>
+</ns0:g>
+
+<ns0:g id="edge2" class="edge">
+<ns0:title>VendorInformation-&gt;Vendor</ns0:title>
+<ns0:path fill="none" stroke="black" stroke-width="0.5" d="M147.73,-28726.08C159.25,-28727.72 170.72,-28729.36 180.91,-28730.82" />
+<ns0:polygon fill="black" stroke="black" stroke-width="0.5" points="181.55,-28732.68 186.74,-28731.65 182.04,-28729.21 181.55,-28732.68" />
+</ns0:g>
+</ns0:g>
+</ns0:svg>

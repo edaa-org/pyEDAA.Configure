@@ -1,0 +1,47 @@
+<ns0:svg xmlns:ns0="http://www.w3.org/2000/svg" xmlns:ns1="http://www.w3.org/1999/xlink" width="1pt" height="864pt" viewBox="0.00 0.00 0.65 864.00">
+<ns0:g id="graph0" class="graph" transform="scale(0.00192801 0.00192801) rotate(0) translate(4 448127.19)">
+<ns0:title>inheritancecdad9b096e</ns0:title>
+
+<ns0:g id="node1" class="node">
+<ns0:title>ConfigurationMixIn</ns0:title>
+<ns0:polygon fill="white" stroke="black" stroke-width="0.5" points="151,-448105.62 0,-448105.62 0,0 151,0 151,-448105.62" />
+<ns0:text text-anchor="middle" x="75.5" y="-448092.12" font-family="Vera Sans, DejaVu Sans, Liberation Sans, Arial, Helvetica, sans" font-size="10.00">ConfigurationMixIn</ns0:text>
+</ns0:g>
+
+<ns0:g id="node3" class="node">
+<ns0:title>Tool</ns0:title>
+<ns0:g id="a_node3"><ns0:a ns1:href="../pyEDAA.ToolSetup/pyEDAA.ToolSetup.html#pyEDAA.ToolSetup.Tool" ns1:title="Tool" target="_top">
+<ns0:polygon fill="white" stroke="black" stroke-width="0.5" points="241,-448105.19 187,-448105.19 187,-0.43 241,-0.43 241,-448105.19" />
+<ns0:text text-anchor="middle" x="214" y="-448091.69" font-family="Vera Sans, DejaVu Sans, Liberation Sans, Arial, Helvetica, sans" font-size="10.00">Tool</ns0:text>
+</ns0:a>
+</ns0:g>
+</ns0:g>
+
+<ns0:g id="edge3" class="edge">
+<ns0:title>ConfigurationMixIn-&gt;Tool</ns0:title>
+<ns0:path fill="none" stroke="black" stroke-width="0.5" d="M151.14,-224052.81C161.56,-224052.81 171.77,-224052.81 180.8,-224052.81" />
+<ns0:polygon fill="black" stroke="black" stroke-width="0.5" points="181.56,-224054.56 186.56,-224052.81 181.56,-224051.06 181.56,-224054.56" />
+</ns0:g>
+
+<ns0:g id="node2" class="node">
+<ns0:title>Git</ns0:title>
+<ns0:g id="a_node2"><ns0:a ns1:href="../pyEDAA.ToolSetup/pyEDAA.ToolSetup.SystemTools.html#pyEDAA.ToolSetup.SystemTools.Git" ns1:title="Git" target="_top">
+<ns0:polygon fill="white" stroke="black" stroke-width="0.5" points="331,-224062.06 277,-224062.06 277,-224043.56 331,-224043.56 331,-224062.06" />
+<ns0:text text-anchor="middle" x="304" y="-224048.56" font-family="Vera Sans, DejaVu Sans, Liberation Sans, Arial, Helvetica, sans" font-size="10.00">Git</ns0:text>
+</ns0:a>
+</ns0:g>
+</ns0:g>
+
+<ns0:g id="edge1" class="edge">
+<ns0:title>Tool-&gt;Git</ns0:title>
+<ns0:path fill="none" stroke="black" stroke-width="0.5" d="M241.4,-224052.81C250.63,-224052.81 261.09,-224052.81 270.73,-224052.81" />
+<ns0:polygon fill="black" stroke="black" stroke-width="0.5" points="271.62,-224054.56 276.62,-224052.81 271.62,-224051.06 271.62,-224054.56" />
+</ns0:g>
+
+<ns0:g id="edge2" class="edge">
+<ns0:title>Tool-&gt;Tool</ns0:title>
+<ns0:path fill="none" stroke="black" stroke-width="0.5" d="M213.58,-448105.54C213.72,-448117.29 213.86,-448123.19 214,-448123.19 214.11,-448123.19 214.23,-448119.29 214.34,-448111.53" />
+<ns0:polygon fill="black" stroke="black" stroke-width="0.5" points="216.11,-448110.56 214.42,-448105.54 212.61,-448110.51 216.11,-448110.56" />
+</ns0:g>
+</ns0:g>
+</ns0:svg>

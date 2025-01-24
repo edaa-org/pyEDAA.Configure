@@ -1,0 +1,62 @@
+<ns0:svg xmlns:ns0="http://www.w3.org/2000/svg" xmlns:ns1="http://www.w3.org/1999/xlink" width="0pt" height="864pt" viewBox="0.00 0.00 0.32 864.00">
+<ns0:g id="graph0" class="graph" transform="scale(0.000660648 0.000660648) rotate(0) translate(4 1307802.5)">
+<ns0:title>inheritance312c9695cc</ns0:title>
+
+<ns0:g id="node1" class="node">
+<ns0:title>ConfigurationMixIn</ns0:title>
+<ns0:polygon fill="white" stroke="black" stroke-width="0.5" points="151,-653917.5 0,-653917.5 0,-653899 151,-653899 151,-653917.5" />
+<ns0:text text-anchor="middle" x="75.5" y="-653904" font-family="Vera Sans, DejaVu Sans, Liberation Sans, Arial, Helvetica, sans" font-size="10.00">ConfigurationMixIn</ns0:text>
+</ns0:g>
+
+<ns0:g id="node3" class="node">
+<ns0:title>ToolInstance</ns0:title>
+<ns0:g id="a_node3"><ns0:a ns1:href="../pyEDAA.ToolSetup/pyEDAA.ToolSetup.html#pyEDAA.ToolSetup.ToolInstance" ns1:title="ToolInstance" target="_top">
+<ns0:polygon fill="white" stroke="black" stroke-width="0.5" points="293,-1307780.5 187,-1307780.5 187,0 293,0 293,-1307780.5" />
+<ns0:text text-anchor="middle" x="240" y="-1307767" font-family="Vera Sans, DejaVu Sans, Liberation Sans, Arial, Helvetica, sans" font-size="10.00">ToolInstance</ns0:text>
+</ns0:a>
+</ns0:g>
+</ns0:g>
+
+<ns0:g id="edge4" class="edge">
+<ns0:title>ConfigurationMixIn-&gt;ToolInstance</ns0:title>
+<ns0:path fill="none" stroke="black" stroke-width="0.5" d="M151.09,-653899.99C161.04,-653898.89 171.12,-653897.77 180.74,-653896.71" />
+<ns0:polygon fill="black" stroke="black" stroke-width="0.5" points="181.88,-653898.34 186.66,-653896.05 181.5,-653894.86 181.88,-653898.34" />
+</ns0:g>
+
+<ns0:g id="node2" class="node">
+<ns0:title>RivieraPROInstance</ns0:title>
+<ns0:g id="a_node2"><ns0:a ns1:href="../pyEDAA.ToolSetup/pyEDAA.ToolSetup.Aldec.html#pyEDAA.ToolSetup.Aldec.RivieraPROInstance" ns1:title="RivieraPROInstance" target="_top">
+<ns0:polygon fill="white" stroke="black" stroke-width="0.5" points="480,-653899.5 329,-653899.5 329,-653881 480,-653881 480,-653899.5" />
+<ns0:text text-anchor="middle" x="404.5" y="-653886" font-family="Vera Sans, DejaVu Sans, Liberation Sans, Arial, Helvetica, sans" font-size="10.00">RivieraPROInstance</ns0:text>
+</ns0:a>
+</ns0:g>
+</ns0:g>
+
+<ns0:g id="edge1" class="edge">
+<ns0:title>ToolInstance-&gt;RivieraPROInstance</ns0:title>
+<ns0:path fill="none" stroke="black" stroke-width="0.5" d="M293.31,-653890.25C302.7,-653890.25 312.67,-653890.25 322.64,-653890.25" />
+<ns0:polygon fill="black" stroke="black" stroke-width="0.5" points="323.51,-653892 328.51,-653890.25 323.51,-653888.5 323.51,-653892" />
+</ns0:g>
+
+<ns0:g id="edge3" class="edge">
+<ns0:title>ToolInstance-&gt;ToolInstance</ns0:title>
+<ns0:path fill="none" stroke="black" stroke-width="0.5" d="M239.55,-1307781C239.7,-1307792.66 239.85,-1307798.5 240,-1307798.5 240.12,-1307798.5 240.24,-1307794.64 240.37,-1307786.94" />
+<ns0:polygon fill="black" stroke="black" stroke-width="0.5" points="242.13,-1307786.02 240.45,-1307781 238.63,-1307785.97 242.13,-1307786.02" />
+</ns0:g>
+
+<ns0:g id="node4" class="node">
+<ns0:title>ToolInformation</ns0:title>
+<ns0:g id="a_node4"><ns0:a ns1:href="../pyEDAA.ToolSetup/pyEDAA.ToolSetup.DataModel.html#pyEDAA.ToolSetup.DataModel.ToolInformation" ns1:title="ToolInformation" target="_top">
+<ns0:polygon fill="white" stroke="black" stroke-width="0.5" points="139.75,-653881.25 11.25,-653881.25 11.25,-653863.25 139.75,-653863.25 139.75,-653881.25" />
+<ns0:text text-anchor="middle" x="75.5" y="-653862.75" font-family="Vera Sans, DejaVu Sans, Liberation Sans, Arial, Helvetica, sans" font-size="10.00">ToolInformation</ns0:text>
+</ns0:a>
+</ns0:g>
+</ns0:g>
+
+<ns0:g id="edge2" class="edge">
+<ns0:title>ToolInformation-&gt;ToolInstance</ns0:title>
+<ns0:path fill="none" stroke="black" stroke-width="0.5" d="M139.79,-653879.26C153.36,-653880.77 167.63,-653882.35 180.99,-653883.83" />
+<ns0:polygon fill="black" stroke="black" stroke-width="0.5" points="181.49,-653885.64 186.65,-653884.45 181.87,-653882.16 181.49,-653885.64" />
+</ns0:g>
+</ns0:g>
+</ns0:svg>

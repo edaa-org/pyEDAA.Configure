@@ -1,0 +1,62 @@
+<ns0:svg xmlns:ns0="http://www.w3.org/2000/svg" xmlns:ns1="http://www.w3.org/1999/xlink" width="0pt" height="864pt" viewBox="0.00 0.00 0.21 864.00">
+<ns0:g id="graph0" class="graph" transform="scale(0.000549638 0.000549638) rotate(0) translate(4 1571939.7)">
+<ns0:title>inheritanced3308b7ce3</ns0:title>
+
+<ns0:g id="node1" class="node">
+<ns0:title>ConfigurationMixIn</ns0:title>
+<ns0:polygon fill="white" stroke="black" stroke-width="0.5" points="151,-785988.1 0,-785988.1 0,-785969.6 151,-785969.6 151,-785988.1" />
+<ns0:text text-anchor="middle" x="75.5" y="-785974.6" font-family="Vera Sans, DejaVu Sans, Liberation Sans, Arial, Helvetica, sans" font-size="10.00">ConfigurationMixIn</ns0:text>
+</ns0:g>
+
+<ns0:g id="node3" class="node">
+<ns0:title>Vendor</ns0:title>
+<ns0:g id="a_node3"><ns0:a ns1:href="../pyEDAA.ToolSetup/pyEDAA.ToolSetup.html#pyEDAA.ToolSetup.Vendor" ns1:title="Vendor" target="_top">
+<ns0:polygon fill="white" stroke="black" stroke-width="0.5" points="248,-1571917.7 187,-1571917.7 187,0 248,0 248,-1571917.7" />
+<ns0:text text-anchor="middle" x="217.5" y="-1571904.2" font-family="Vera Sans, DejaVu Sans, Liberation Sans, Arial, Helvetica, sans" font-size="10.00">Vendor</ns0:text>
+</ns0:a>
+</ns0:g>
+</ns0:g>
+
+<ns0:g id="edge4" class="edge">
+<ns0:title>ConfigurationMixIn-&gt;Vendor</ns0:title>
+<ns0:path fill="none" stroke="black" stroke-width="0.5" d="M144.45,-785969.14C157.15,-785967.33 169.93,-785965.5 181.13,-785963.9" />
+<ns0:polygon fill="black" stroke="black" stroke-width="0.5" points="182.14,-785965.52 186.84,-785963.08 181.64,-785962.06 182.14,-785965.52" />
+</ns0:g>
+
+<ns0:g id="node2" class="node">
+<ns0:title>IntelFPGA</ns0:title>
+<ns0:g id="a_node2"><ns0:a ns1:href="../pyEDAA.ToolSetup/pyEDAA.ToolSetup.IntelFPGA.html#pyEDAA.ToolSetup.IntelFPGA.IntelFPGA" ns1:title="IntelFPGA" target="_top">
+<ns0:polygon fill="white" stroke="black" stroke-width="0.5" points="367.5,-785968.1 284,-785968.1 284,-785949.6 367.5,-785949.6 367.5,-785968.1" />
+<ns0:text text-anchor="middle" x="325.75" y="-785954.6" font-family="Vera Sans, DejaVu Sans, Liberation Sans, Arial, Helvetica, sans" font-size="10.00">IntelFPGA</ns0:text>
+</ns0:a>
+</ns0:g>
+</ns0:g>
+
+<ns0:g id="edge1" class="edge">
+<ns0:title>Vendor-&gt;IntelFPGA</ns0:title>
+<ns0:path fill="none" stroke="black" stroke-width="0.5" d="M248.38,-785958.85C257.51,-785958.85 267.79,-785958.85 277.77,-785958.85" />
+<ns0:polygon fill="black" stroke="black" stroke-width="0.5" points="278.6,-785960.6 283.6,-785958.85 278.6,-785957.1 278.6,-785960.6" />
+</ns0:g>
+
+<ns0:g id="edge3" class="edge">
+<ns0:title>Vendor-&gt;Vendor</ns0:title>
+<ns0:path fill="none" stroke="black" stroke-width="0.5" d="M217.23,-1571918.01C217.32,-1571929.79 217.41,-1571935.7 217.5,-1571935.7 217.58,-1571935.7 217.65,-1571931.65 217.73,-1571923.56" />
+<ns0:polygon fill="black" stroke="black" stroke-width="0.5" points="219.48,-1571923.03 217.77,-1571918.01 215.98,-1571923 219.48,-1571923.03" />
+</ns0:g>
+
+<ns0:g id="node4" class="node">
+<ns0:title>VendorInformation</ns0:title>
+<ns0:g id="a_node4"><ns0:a ns1:href="../pyEDAA.ToolSetup/pyEDAA.ToolSetup.DataModel.html#pyEDAA.ToolSetup.DataModel.VendorInformation" ns1:title="VendorInformation" target="_top">
+<ns0:polygon fill="white" stroke="black" stroke-width="0.5" points="147.25,-785951.85 3.75,-785951.85 3.75,-785925.85 147.25,-785925.85 147.25,-785951.85" />
+<ns0:text text-anchor="middle" x="75.5" y="-785938.35" font-family="Vera Sans, DejaVu Sans, Liberation Sans, Arial, Helvetica, sans" font-size="10.00">VendorInformation</ns0:text>
+</ns0:a>
+</ns0:g>
+</ns0:g>
+
+<ns0:g id="edge2" class="edge">
+<ns0:title>VendorInformation-&gt;Vendor</ns0:title>
+<ns0:path fill="none" stroke="black" stroke-width="0.5" d="M147.73,-785949.02C159.25,-785950.67 170.72,-785952.31 180.91,-785953.76" />
+<ns0:polygon fill="black" stroke="black" stroke-width="0.5" points="181.55,-785955.62 186.74,-785954.6 182.04,-785952.16 181.55,-785955.62" />
+</ns0:g>
+</ns0:g>
+</ns0:svg>

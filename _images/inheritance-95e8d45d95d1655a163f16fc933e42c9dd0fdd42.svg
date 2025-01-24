@@ -1,0 +1,29 @@
+<ns0:svg xmlns:ns0="http://www.w3.org/2000/svg" xmlns:ns1="http://www.w3.org/1999/xlink" width="0pt" height="864pt" viewBox="0.00 0.00 0.15 864.00">
+<ns0:g id="graph0" class="graph" transform="scale(0.000583775 0.000583775) rotate(0) translate(4 1480019.33)">
+<ns0:title>inheritance00637f5fbe</ns0:title>
+
+<ns0:g id="node1" class="node">
+<ns0:title>Installation</ns0:title>
+<ns0:g id="a_node1"><ns0:a ns1:href="../pyEDAA.ToolSetup/pyEDAA.ToolSetup.DataModel.html#pyEDAA.ToolSetup.DataModel.Installation" ns1:title="Installation" target="_top">
+<ns0:polygon fill="white" stroke="black" stroke-width="0.5" points="106,-740016.92 0,-740016.92 0,-739998.42 106,-739998.42 106,-740016.92" />
+<ns0:text text-anchor="middle" x="53" y="-740003.42" font-family="Vera Sans, DejaVu Sans, Liberation Sans, Arial, Helvetica, sans" font-size="10.00">Installation</ns0:text>
+</ns0:a>
+</ns0:g>
+</ns0:g>
+
+<ns0:g id="node2" class="node">
+<ns0:title>Installations</ns0:title>
+<ns0:g id="a_node2"><ns0:a ns1:href="../pyEDAA.ToolSetup/pyEDAA.ToolSetup.html#pyEDAA.ToolSetup.Installations" ns1:title="Installations" target="_top">
+<ns0:polygon fill="white" stroke="black" stroke-width="0.5" points="255.5,-1480015.33 142,-1480015.33 142,0 255.5,0 255.5,-1480015.33" />
+<ns0:text text-anchor="middle" x="198.75" y="-1480001.83" font-family="Vera Sans, DejaVu Sans, Liberation Sans, Arial, Helvetica, sans" font-size="10.00">Installations</ns0:text>
+</ns0:a>
+</ns0:g>
+</ns0:g>
+
+<ns0:g id="edge1" class="edge">
+<ns0:title>Installation-&gt;Installations</ns0:title>
+<ns0:path fill="none" stroke="black" stroke-width="0.5" d="M106.3,-740007.67C115.97,-740007.67 126.14,-740007.67 136.05,-740007.67" />
+<ns0:polygon fill="black" stroke="black" stroke-width="0.5" points="136.85,-740009.42 141.85,-740007.67 136.85,-740005.92 136.85,-740009.42" />
+</ns0:g>
+</ns0:g>
+</ns0:svg>

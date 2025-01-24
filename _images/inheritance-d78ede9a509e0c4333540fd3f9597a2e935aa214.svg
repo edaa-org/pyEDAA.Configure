@@ -1,0 +1,47 @@
+<ns0:svg xmlns:ns0="http://www.w3.org/2000/svg" xmlns:ns1="http://www.w3.org/1999/xlink" width="7pt" height="864pt" viewBox="0.00 0.00 6.88 864.00">
+<ns0:g id="graph0" class="graph" transform="scale(0.0182996 0.0182996) rotate(0) translate(4 47210.1)">
+<ns0:title>inheritance3c1ff5e86c</ns0:title>
+
+<ns0:g id="node1" class="node">
+<ns0:title>ConfigurationMixIn</ns0:title>
+<ns0:polygon fill="white" stroke="black" stroke-width="0.5" points="151,-47206.1 0,-47206.1 0,0 151,0 151,-47206.1" />
+<ns0:text text-anchor="middle" x="75.5" y="-47192.6" font-family="Vera Sans, DejaVu Sans, Liberation Sans, Arial, Helvetica, sans" font-size="10.00">ConfigurationMixIn</ns0:text>
+</ns0:g>
+
+<ns0:g id="node3" class="node">
+<ns0:title>Tool</ns0:title>
+<ns0:g id="a_node3"><ns0:a ns1:href="../pyEDAA.ToolSetup/pyEDAA.ToolSetup.html#pyEDAA.ToolSetup.Tool" ns1:title="Tool" target="_top">
+<ns0:polygon fill="white" stroke="black" stroke-width="0.5" points="241,-23612.3 187,-23612.3 187,-23593.8 241,-23593.8 241,-23612.3" />
+<ns0:text text-anchor="middle" x="214" y="-23598.8" font-family="Vera Sans, DejaVu Sans, Liberation Sans, Arial, Helvetica, sans" font-size="10.00">Tool</ns0:text>
+</ns0:a>
+</ns0:g>
+</ns0:g>
+
+<ns0:g id="edge3" class="edge">
+<ns0:title>ConfigurationMixIn-&gt;Tool</ns0:title>
+<ns0:path fill="none" stroke="black" stroke-width="0.5" d="M151.14,-23603.05C161.56,-23603.05 171.77,-23603.05 180.8,-23603.05" />
+<ns0:polygon fill="black" stroke="black" stroke-width="0.5" points="181.56,-23604.8 186.56,-23603.05 181.56,-23601.3 181.56,-23604.8" />
+</ns0:g>
+
+<ns0:g id="node2" class="node">
+<ns0:title>RivieraPRO</ns0:title>
+<ns0:g id="a_node2"><ns0:a ns1:href="../pyEDAA.ToolSetup/pyEDAA.ToolSetup.Aldec.html#pyEDAA.ToolSetup.Aldec.RivieraPRO" ns1:title="RivieraPRO" target="_top">
+<ns0:polygon fill="white" stroke="black" stroke-width="0.5" points="368,-23612.3 277,-23612.3 277,-23593.8 368,-23593.8 368,-23612.3" />
+<ns0:text text-anchor="middle" x="322.5" y="-23598.8" font-family="Vera Sans, DejaVu Sans, Liberation Sans, Arial, Helvetica, sans" font-size="10.00">RivieraPRO</ns0:text>
+</ns0:a>
+</ns0:g>
+</ns0:g>
+
+<ns0:g id="edge1" class="edge">
+<ns0:title>Tool-&gt;RivieraPRO</ns0:title>
+<ns0:path fill="none" stroke="black" stroke-width="0.5" d="M241.33,-23603.05C250.29,-23603.05 260.62,-23603.05 270.84,-23603.05" />
+<ns0:polygon fill="black" stroke="black" stroke-width="0.5" points="271.82,-23604.8 276.82,-23603.05 271.82,-23601.3 271.82,-23604.8" />
+</ns0:g>
+
+<ns0:g id="edge2" class="edge">
+<ns0:title>Tool-&gt;Tool</ns0:title>
+<ns0:path fill="none" stroke="black" stroke-width="0.5" d="M197.28,-23612.54C189.14,-23621.12 194.72,-23630.3 214,-23630.3 229.67,-23630.3 236.29,-23624.24 233.85,-23617.37" />
+<ns0:polygon fill="black" stroke="black" stroke-width="0.5" points="234.91,-23615.79 230.72,-23612.54 231.98,-23617.69 234.91,-23615.79" />
+</ns0:g>
+</ns0:g>
+</ns0:svg>
